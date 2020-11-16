@@ -3,6 +3,7 @@
 IntroductionDeepReinforcementLearning/model_keras.json
 IntroductionDeepReinforcementLearning/tmp_notebook/*
 IntroductionDeepReinforcementLearning/models/*
+IntroductionDeepReinforcementLearning/script/*
 IntroductionDeepReinforcementLearning/RLclass/
 *.DS_Store
 .ipynb_checkpoints/
@@ -19,7 +20,6 @@ Text/data/w2v_model/
 Text/data/vec_*
 Text/data/Categorie_original.zip
 Text/data/cdiscount_train_glove
-Text/data/generate_model.h5
 Text/data/metadata/metadata_2bis_backup.pkl
 Text/data/metadata/metadata_lr.pkl
 Text/data/metadata/metadata_mlp.pkl
